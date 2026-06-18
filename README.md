@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Erdinc55/Erdinc55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Erdinc, a passionate self-taught developer 
+who has been learning programming for several years. 
+I enjoy exploring new technologies, improving my skills, 
+and building a strong foundation in software development.
 
-Here are some ideas to get you started:
+For me, programming is more than just writing code.
+It’s about solving problems, creating useful solutions, 
+and continuously learning something new every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Current Goals
+
+* Build and publish more projects
+* Learn software development best practices
+* Keep growing as a developer every day
+
+ Interests & Hobbies
+
+* 💻 Coding
+* 📖 Reading
+* 🚶 Walking
+* 🏋️ Fitness
