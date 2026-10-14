@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/kopf.svg" alt="Erdinc – Webentwicklung, Schritt für Schritt" width="100%">
+<img src="kopf.svg" alt="Erdinc – Webentwicklung, Schritt für Schritt" width="100%">
 
 </div>
 
@@ -13,22 +13,22 @@
 </div>
 
 <div align="center">
-<a href="https://erdinc55.github.io/Kreuzwortraetsel/"><img src="assets/karte-lesesaal.svg" alt="Lesesaal, ein Kreuzworträtsel über Allgemeinwissen" width="100%"></a>
+<a href="https://erdinc55.github.io/Kreuzwortraetsel/"><img src="karte-lesesaal.svg" alt="Lesesaal, ein Kreuzworträtsel über Allgemeinwissen" width="100%"></a>
 </div>
 
 <table align="center">
 <tr>
-<td><a href="https://erdinc55.github.io/abyss-Reaktionsspiel-/"><img src="assets/karte-abyss.svg" alt="Abyss, ein Reaktionsspiel" width="440"></a></td>
-<td><a href="https://erdinc55.github.io/gluecksrad/"><img src="assets/karte-gluecksrad.svg" alt="Glücksrad mit gewichteten Feldern" width="440"></a></td>
+<td><a href="https://erdinc55.github.io/abyss-Reaktionsspiel-/"><img src="karte-abyss.svg" alt="Abyss, ein Reaktionsspiel" width="440"></a></td>
+<td><a href="https://erdinc55.github.io/gluecksrad/"><img src="karte-gluecksrad.svg" alt="Glücksrad mit gewichteten Feldern" width="440"></a></td>
 </tr>
 <tr>
-<td><a href="https://erdinc55.github.io/Wetter/"><img src="assets/karte-wetter.svg" alt="Wetter-App mit Gedächtnis" width="440"></a></td>
-<td><a href="https://erdinc55.github.io/"><img src="assets/karte-visitenkarte.svg" alt="Meine Visitenkarte" width="440"></a></td>
+<td><a href="https://erdinc55.github.io/Wetter/"><img src="karte-wetter.svg" alt="Wetter-App mit Gedächtnis" width="440"></a></td>
+<td><a href="https://erdinc55.github.io/"><img src="karte-visitenkarte.svg" alt="Meine Visitenkarte" width="440"></a></td>
 </tr>
 </table>
 
 <div align="center">
-<img src="assets/trenner.svg" alt="" width="100%">
+<img src="trenner.svg" alt="" width="100%">
 </div>
 
 ## Wo ich stehe
@@ -45,7 +45,7 @@ Maus (Abyss) und dass man Zeit zwischen zwei Bildern einrechnen muss (auch Abyss
 Ich suche meine erste Stelle als **Junior Webentwickler**.
 
 <div align="center">
-<img src="assets/werkzeug.svg" alt="HTML, CSS, JavaScript, Git, GitHub, Wikidata" width="100%">
+<img src="werkzeug.svg" alt="HTML, CSS, JavaScript, Git, GitHub, Wikidata" width="100%">
 </div>
 
 ## Mein Raster
