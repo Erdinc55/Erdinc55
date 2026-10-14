@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="210" viewBox="0 0 440 210" role="img">
+<style>
+.tt{font:400 28px Georgia, 'Times New Roman', serif;fill:#ece4d6}
+.ss{font:italic 300 17px Georgia, 'Times New Roman', serif;fill:#9a8f7f}
+.tg{font:400 12px 'Courier New', Consolas, monospace;fill:#c9a227;letter-spacing:2px}
+.go{font:400 14px 'Courier New', Consolas, monospace;fill:#c9a227}
+.card{transition:none}
+.rahmen{animation:rb 6s ease-in-out infinite}
+@keyframes rb{0%,100%{stroke:#3d352b}50%{stroke:#6b5a2e}}
+.schwebe{animation:sw 4s ease-in-out infinite}@keyframes sw{0%,100%{transform:translateY(0) rotate(-2deg)}50%{transform:translateY(-8px) rotate(1deg)}}
+</style>
+<rect width="440" height="210" rx="12" fill="#16120e"/>
+<rect class="rahmen" x="1" y="1" width="438" height="208" rx="11" fill="#221c15" fill-opacity="0.55" stroke="#3d352b" stroke-width="1.5"/>
+<g class="schwebe"><rect x="270" y="52" width="140" height="92" rx="6" fill="#ece4d6"/>
+<rect x="282" y="66" width="50" height="8" rx="2" fill="#16120e"/><rect x="282" y="82" width="90" height="5" rx="2" fill="#8a8070"/><rect x="282" y="94" width="76" height="5" rx="2" fill="#8a8070"/>
+<circle cx="388" cy="70" r="9" fill="#c9a227"/><rect x="282" y="122" width="40" height="6" rx="3" fill="#c9a227"/></g><text class="tg" x="28" y="50">VISITENKARTE</text>
+<text class="tt" x="28" y="90">Visitenkarte</text>
+<text class="ss" x="28" y="122">Meine kleine Startseite mit</text>
+<text class="ss" x="28" y="146">Kontakt und allen Projekten.</text>
+<text class="go" x="28" y="188">öffnen →</text>
+
+</svg>

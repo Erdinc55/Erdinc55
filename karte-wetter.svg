@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="210" viewBox="0 0 440 210" role="img">
+<style>
+.tt{font:400 28px Georgia, 'Times New Roman', serif;fill:#ece4d6}
+.ss{font:italic 300 17px Georgia, 'Times New Roman', serif;fill:#9a8f7f}
+.tg{font:400 12px 'Courier New', Consolas, monospace;fill:#c9a227;letter-spacing:2px}
+.go{font:400 14px 'Courier New', Consolas, monospace;fill:#c9a227}
+.card{transition:none}
+.rahmen{animation:rb 6s ease-in-out infinite}
+@keyframes rb{0%,100%{stroke:#3d352b}50%{stroke:#6b5a2e}}
+.sonne{animation:dr 14s linear infinite;transform-origin:0 0}@keyframes dr{to{transform:rotate(360deg)}}.wolke{animation:tr 6s ease-in-out infinite alternate}@keyframes tr{from{transform:translateX(-14px)}to{transform:translateX(14px)}}
+</style>
+<rect width="440" height="210" rx="12" fill="#16120e"/>
+<rect class="rahmen" x="1" y="1" width="438" height="208" rx="11" fill="#221c15" fill-opacity="0.55" stroke="#3d352b" stroke-width="1.5"/>
+<g transform="translate(335,85)"><g class="sonne"><circle r="26" fill="#f0b93d"/><line x1="36.0" y1="0.0" x2="50.0" y2="0.0" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="25.5" y1="25.5" x2="35.4" y2="35.4" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="0.0" y1="36.0" x2="0.0" y2="50.0" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="-25.5" y1="25.5" x2="-35.4" y2="35.4" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="-36.0" y1="0.0" x2="-50.0" y2="0.0" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="-25.5" y1="-25.5" x2="-35.4" y2="-35.4" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="-0.0" y1="-36.0" x2="-0.0" y2="-50.0" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="25.5" y1="-25.5" x2="35.4" y2="-35.4" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/></g></g><g class="wolke"><ellipse cx="350" cy="125" rx="50" ry="22" fill="#ece4d6"/><circle cx="326" cy="115" r="20" fill="#ece4d6"/><circle cx="360" cy="108" r="25" fill="#ece4d6"/></g><text class="tg" x="28" y="50">WETTER-APP</text>
+<text class="tt" x="28" y="90">Wetter</text>
+<text class="ss" x="28" y="122">Vergleicht Quellen, merkt</text>
+<text class="ss" x="28" y="146">sich Orte, °C und °F.</text>
+<text class="go" x="28" y="188">öffnen →</text>
+
+</svg>

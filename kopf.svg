@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340" role="img">
+<style>
+.z{fill:#221c15;stroke:#3d352b;stroke-width:1.5}
+.b{font:600 23px 'Courier New', Consolas, monospace;fill:#ece4d6;text-anchor:middle;dominant-baseline:central}
+.e{opacity:0;animation:ein .5s ease forwards}
+@keyframes ein{0%{opacity:0;transform:scale(.6)}100%{opacity:1;transform:scale(1)}}
+.name{animation:glow 4s ease-in-out 5s infinite}
+@keyframes glow{0%,100%{fill:#ece4d6}50%{fill:#c9a227}}
+.t1{font:300 76px Georgia, 'Times New Roman', serif;fill:#ece4d6;letter-spacing:-1px}
+.t2{font:italic 300 24px Georgia, 'Times New Roman', serif;fill:#9a8f7f}
+.t3{font:400 15px 'Courier New', Consolas, monospace;fill:#c9a227;letter-spacing:2px}
+.fade{opacity:0;animation:ein .8s ease forwards}
+.cursor{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+</style>
+<rect width="900" height="340" rx="14" fill="#16120e"/>
+<rect x="1" y="1" width="898" height="338" rx="13" fill="none" stroke="#3d352b"/>
+<g class="e" style="animation-delay:0.15s;transform-origin:100.0px 130.0px"><rect class="z" x="80" y="110" width="37" height="37" rx="2"/><text class="b name" x="98.5" y="129.5">E</text></g>
+<g class="e" style="animation-delay:0.33s;transform-origin:140.0px 130.0px"><rect class="z" x="120" y="110" width="37" height="37" rx="2"/><text class="b name" x="138.5" y="129.5">R</text></g>
+<g class="e" style="animation-delay:0.51s;transform-origin:180.0px 130.0px"><rect class="z" x="160" y="110" width="37" height="37" rx="2"/><text class="b name" x="178.5" y="129.5">D</text></g>
+<g class="e" style="animation-delay:0.69s;transform-origin:220.0px 130.0px"><rect class="z" x="200" y="110" width="37" height="37" rx="2"/><text class="b name" x="218.5" y="129.5">I</text></g>
+<g class="e" style="animation-delay:0.87s;transform-origin:260.0px 130.0px"><rect class="z" x="240" y="110" width="37" height="37" rx="2"/><text class="b name" x="258.5" y="129.5">N</text></g>
+<g class="e" style="animation-delay:1.05s;transform-origin:300.0px 130.0px"><rect class="z" x="280" y="110" width="37" height="37" rx="2"/><text class="b name" x="298.5" y="129.5">C</text></g>
+<g class="e" style="animation-delay:1.23s;transform-origin:180.0px 50.0px"><rect class="z" x="160" y="30" width="37" height="37" rx="2"/><text class="b" x="178.5" y="49.5">C</text></g>
+<g class="e" style="animation-delay:1.41s;transform-origin:100.0px 90.0px"><rect class="z" x="80" y="70" width="37" height="37" rx="2"/><text class="b" x="98.5" y="89.5">L</text></g>
+<g class="e" style="animation-delay:1.59s;transform-origin:180.0px 90.0px"><rect class="z" x="160" y="70" width="37" height="37" rx="2"/><text class="b" x="178.5" y="89.5">O</text></g>
+<g class="e" style="animation-delay:1.77s;transform-origin:100.0px 170.0px"><rect class="z" x="80" y="150" width="37" height="37" rx="2"/><text class="b" x="98.5" y="169.5">R</text></g>
+<g class="e" style="animation-delay:1.95s;transform-origin:180.0px 170.0px"><rect class="z" x="160" y="150" width="37" height="37" rx="2"/><text class="b" x="178.5" y="169.5">E</text></g>
+<g class="e" style="animation-delay:2.13s;transform-origin:260.0px 170.0px"><rect class="z" x="240" y="150" width="37" height="37" rx="2"/><text class="b" x="258.5" y="169.5">E</text></g>
+<g class="e" style="animation-delay:2.31s;transform-origin:100.0px 210.0px"><rect class="z" x="80" y="190" width="37" height="37" rx="2"/><text class="b" x="98.5" y="209.5">N</text></g>
+<g class="e" style="animation-delay:2.49s;transform-origin:260.0px 210.0px"><rect class="z" x="240" y="190" width="37" height="37" rx="2"/><text class="b" x="258.5" y="209.5">U</text></g>
+<g class="e" style="animation-delay:2.67s;transform-origin:100.0px 250.0px"><rect class="z" x="80" y="230" width="37" height="37" rx="2"/><text class="b" x="98.5" y="249.5">E</text></g>
+<g class="e" style="animation-delay:2.85s;transform-origin:100.0px 290.0px"><rect class="z" x="80" y="270" width="37" height="37" rx="2"/><text class="b" x="98.5" y="289.5">N</text></g>
+<text x="84" y="81" font-family="'Courier New', Consolas, monospace" font-size="10" fill="#9a8f7f" opacity="0.8">1</text>
+<text x="164" y="41" font-family="'Courier New', Consolas, monospace" font-size="10" fill="#9a8f7f" opacity="0.8">2</text>
+<text x="84" y="121" font-family="'Courier New', Consolas, monospace" font-size="10" fill="#9a8f7f" opacity="0.8">3</text>
+<text x="244" y="121" font-family="'Courier New', Consolas, monospace" font-size="10" fill="#9a8f7f" opacity="0.8">4</text>
+<text class="t3 fade" style="animation-delay:2.2s" x="420" y="96">WEBENTWICKLUNG · SCHRITT FÜR SCHRITT</text>
+<text class="t1 fade" style="animation-delay:2.6s" x="417" y="178">Erdinc</text>
+<text class="t2 fade" style="animation-delay:3.2s" x="420" y="222">Ich baue kleine Spiele und Werkzeuge,</text>
+<text class="t2 fade" style="animation-delay:3.4s" x="420" y="252">lerne dabei HTML, CSS und JavaScript</text>
+<text class="t2 fade" style="animation-delay:3.6s" x="420" y="282">und suche meine erste Stelle als Junior.<tspan class="cursor" fill="#c9a227"> ▍</tspan></text>
+
+</svg>

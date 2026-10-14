@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="210" viewBox="0 0 440 210" role="img">
+<style>
+.tt{font:400 28px Georgia, 'Times New Roman', serif;fill:#ece4d6}
+.ss{font:italic 300 17px Georgia, 'Times New Roman', serif;fill:#9a8f7f}
+.tg{font:400 12px 'Courier New', Consolas, monospace;fill:#c9a227;letter-spacing:2px}
+.go{font:400 14px 'Courier New', Consolas, monospace;fill:#c9a227}
+.card{transition:none}
+.rahmen{animation:rb 6s ease-in-out infinite}
+@keyframes rb{0%,100%{stroke:#3d352b}50%{stroke:#6b5a2e}}
+
+</style>
+<rect width="440" height="210" rx="12" fill="#16120e"/>
+<rect class="rahmen" x="1" y="1" width="438" height="208" rx="11" fill="#221c15" fill-opacity="0.55" stroke="#3d352b" stroke-width="1.5"/>
+<defs><radialGradient id="w" cx="50%" cy="100%" r="90%"><stop offset="0" stop-color="#0b3a4a"/><stop offset="1" stop-color="#06141c"/></radialGradient>
+<radialGradient id="l"><stop offset="0" stop-color="#7ff"/><stop offset="1" stop-color="#7ff" stop-opacity="0"/></radialGradient></defs>
+<rect x="250" y="14" width="176" height="182" rx="8" fill="url(#w)"/>
+<g>
+<circle r="22" fill="url(#l)"><animate attributeName="fill" values="url(#l)" dur="1s" repeatCount="indefinite"/>
+<animateMotion dur="7s" repeatCount="indefinite" path="M280,60 C340,30 400,80 390,130 C380,175 300,170 290,120 C285,95 330,70 280,60"/></circle>
+<circle r="5" fill="#bff"><animate attributeName="r" values="7;3;7" dur="3.5s" repeatCount="indefinite"/>
+<animate attributeName="fill" values="#bff;#bff;#ff4fd8;#bff" keyTimes="0;0.6;0.9;1" dur="3.5s" repeatCount="indefinite"/>
+<animateMotion dur="7s" repeatCount="indefinite" path="M280,60 C340,30 400,80 390,130 C380,175 300,170 290,120 C285,95 330,70 280,60"/></circle>
+</g><text class="tg" x="28" y="50">REAKTIONSSPIEL</text>
+<text class="tt" x="28" y="90">Abyss</text>
+<text class="ss" x="28" y="122">Ein Licht treibt durchs Wasser.</text>
+<text class="ss" x="28" y="146">Fang es, bevor es entwischt.</text>
+<text class="go" x="28" y="188">öffnen →</text>
+
+</svg>
