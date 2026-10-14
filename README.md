@@ -18,12 +18,12 @@
 
 <table align="center">
 <tr>
-<td><a href="https://erdinc55.github.io/abyss-Reaktionsspiel-/"><img src="karte-abyss.svg" alt="Abyss, ein Reaktionsspiel" width="440"></a></td>
+<td><a href="https://erdinc55.github.io/abyss-Reaktionsspiel/"><img src="karte-abyss.svg" alt="Abyss, ein Reaktionsspiel" width="440"></a></td>
 <td><a href="https://erdinc55.github.io/gluecksrad/"><img src="karte-gluecksrad.svg" alt="Glücksrad mit gewichteten Feldern" width="440"></a></td>
 </tr>
 <tr>
 <td><a href="https://erdinc55.github.io/Wetter/"><img src="karte-wetter.svg" alt="Wetter-App mit Gedächtnis" width="440"></a></td>
-<td><a href="https://erdinc55.github.io/"><img src="karte-visitenkarte.svg" alt="Meine Visitenkarte" width="440"></a></td>
+<td><a href="https://erdinc55.github.io/mini-visitenkarte/"><img src="karte-visitenkarte" width="440"></a></td>
 </tr>
 </table>
 
