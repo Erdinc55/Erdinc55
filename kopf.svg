@@ -24,21 +24,20 @@
 <g class="e" style="animation-delay:1.23s;transform-origin:180.0px 50.0px"><rect class="z" x="160" y="30" width="37" height="37" rx="2"/><text class="b" x="178.5" y="49.5">C</text></g>
 <g class="e" style="animation-delay:1.41s;transform-origin:100.0px 90.0px"><rect class="z" x="80" y="70" width="37" height="37" rx="2"/><text class="b" x="98.5" y="89.5">L</text></g>
 <g class="e" style="animation-delay:1.59s;transform-origin:180.0px 90.0px"><rect class="z" x="160" y="70" width="37" height="37" rx="2"/><text class="b" x="178.5" y="89.5">O</text></g>
-<g class="e" style="animation-delay:1.77s;transform-origin:100.0px 170.0px"><rect class="z" x="80" y="150" width="37" height="37" rx="2"/><text class="b" x="98.5" y="169.5">R</text></g>
+<g class="e" style="animation-delay:1.77s;transform-origin:100.0px 170.0px"><rect class="z" x="80" y="150" width="37" height="37" rx="2"/><text class="b" x="98.5" y="169.5">A</text></g>
 <g class="e" style="animation-delay:1.95s;transform-origin:180.0px 170.0px"><rect class="z" x="160" y="150" width="37" height="37" rx="2"/><text class="b" x="178.5" y="169.5">E</text></g>
 <g class="e" style="animation-delay:2.13s;transform-origin:260.0px 170.0px"><rect class="z" x="240" y="150" width="37" height="37" rx="2"/><text class="b" x="258.5" y="169.5">E</text></g>
-<g class="e" style="animation-delay:2.31s;transform-origin:100.0px 210.0px"><rect class="z" x="80" y="190" width="37" height="37" rx="2"/><text class="b" x="98.5" y="209.5">N</text></g>
-<g class="e" style="animation-delay:2.49s;transform-origin:260.0px 210.0px"><rect class="z" x="240" y="190" width="37" height="37" rx="2"/><text class="b" x="258.5" y="209.5">U</text></g>
-<g class="e" style="animation-delay:2.67s;transform-origin:100.0px 250.0px"><rect class="z" x="80" y="230" width="37" height="37" rx="2"/><text class="b" x="98.5" y="249.5">E</text></g>
-<g class="e" style="animation-delay:2.85s;transform-origin:100.0px 290.0px"><rect class="z" x="80" y="270" width="37" height="37" rx="2"/><text class="b" x="98.5" y="289.5">N</text></g>
+<g class="e" style="animation-delay:2.31s;transform-origin:100.0px 210.0px"><rect class="z" x="80" y="190" width="37" height="37" rx="2"/><text class="b" x="98.5" y="209.5">R</text></g>
+<g class="e" style="animation-delay:2.49s;transform-origin:260.0px 210.0px"><rect class="z" x="240" y="190" width="37" height="37" rx="2"/><text class="b" x="258.5" y="209.5">W</text></g>
+<g class="e" style="animation-delay:2.67s;transform-origin:100.0px 250.0px"><rect class="z" x="80" y="230" width="37" height="37" rx="2"/><text class="b" x="98.5" y="249.5">N</text></g>
 <text x="84" y="81" font-family="'Courier New', Consolas, monospace" font-size="10" fill="#9a8f7f" opacity="0.8">1</text>
 <text x="164" y="41" font-family="'Courier New', Consolas, monospace" font-size="10" fill="#9a8f7f" opacity="0.8">2</text>
 <text x="84" y="121" font-family="'Courier New', Consolas, monospace" font-size="10" fill="#9a8f7f" opacity="0.8">3</text>
 <text x="244" y="121" font-family="'Courier New', Consolas, monospace" font-size="10" fill="#9a8f7f" opacity="0.8">4</text>
-<text class="t3 fade" style="animation-delay:2.2s" x="420" y="96">WEBENTWICKLUNG · SCHRITT FÜR SCHRITT</text>
+<text class="t3 fade" style="animation-delay:2.2s" x="420" y="96">WEB DEVELOPMENT · STEP BY STEP</text>
 <text class="t1 fade" style="animation-delay:2.6s" x="417" y="178">Erdinc</text>
-<text class="t2 fade" style="animation-delay:3.2s" x="420" y="222">Ich baue kleine Spiele und Werkzeuge,</text>
-<text class="t2 fade" style="animation-delay:3.4s" x="420" y="252">lerne dabei HTML, CSS und JavaScript</text>
-<text class="t2 fade" style="animation-delay:3.6s" x="420" y="282">und suche meine erste Stelle als Junior.<tspan class="cursor" fill="#c9a227"> ▍</tspan></text>
+<text class="t2 fade" style="animation-delay:3.2s" x="420" y="222">I build small games and tools,</text>
+<text class="t2 fade" style="animation-delay:3.4s" x="420" y="252">learning HTML, CSS and JavaScript</text>
+<text class="t2 fade" style="animation-delay:3.6s" x="420" y="282">and looking for my first junior role.<tspan class="cursor" fill="#c9a227"> ▍</tspan></text>
 
 </svg>

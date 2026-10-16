@@ -20,10 +20,10 @@
 <circle r="5" fill="#bff"><animate attributeName="r" values="7;3;7" dur="3.5s" repeatCount="indefinite"/>
 <animate attributeName="fill" values="#bff;#bff;#ff4fd8;#bff" keyTimes="0;0.6;0.9;1" dur="3.5s" repeatCount="indefinite"/>
 <animateMotion dur="7s" repeatCount="indefinite" path="M280,60 C340,30 400,80 390,130 C380,175 300,170 290,120 C285,95 330,70 280,60"/></circle>
-</g><text class="tg" x="28" y="50">REAKTIONSSPIEL</text>
+</g><text class="tg" x="28" y="50">REACTION GAME</text>
 <text class="tt" x="28" y="90">Abyss</text>
-<text class="ss" x="28" y="122">Ein Licht treibt durchs Wasser.</text>
-<text class="ss" x="28" y="146">Fang es, bevor es entwischt.</text>
-<text class="go" x="28" y="188">öffnen →</text>
+<text class="ss" x="28" y="122">A light drifts through water.</text>
+<text class="ss" x="28" y="146">Catch it before it escapes.</text>
+<text class="go" x="28" y="188">open →</text>
 
 </svg>

@@ -11,10 +11,10 @@
 </style>
 <rect width="440" height="210" rx="12" fill="#16120e"/>
 <rect class="rahmen" x="1" y="1" width="438" height="208" rx="11" fill="#221c15" fill-opacity="0.55" stroke="#3d352b" stroke-width="1.5"/>
-<g class="spin" style="transform-origin:345px 105px"><path d="M345,105 L345.0,29.0 A76,76 0 0 1 410.8,67.0 Z" fill="#c9a227" stroke="#16120e" stroke-width="3"/><path d="M345,105 L410.8,67.0 A76,76 0 0 1 410.8,143.0 Z" fill="#b4522f" stroke="#16120e" stroke-width="3"/><path d="M345,105 L410.8,143.0 A76,76 0 0 1 345.0,181.0 Z" fill="#7f9b72" stroke="#16120e" stroke-width="3"/><path d="M345,105 L345.0,181.0 A76,76 0 0 1 279.2,143.0 Z" fill="#5b7f95" stroke="#16120e" stroke-width="3"/><path d="M345,105 L279.2,143.0 A76,76 0 0 1 279.2,67.0 Z" fill="#a0678a" stroke="#16120e" stroke-width="3"/><path d="M345,105 L279.2,67.0 A76,76 0 0 1 345.0,29.0 Z" fill="#d08c3c" stroke="#16120e" stroke-width="3"/><circle cx="345" cy="105" r="14" fill="#16120e" stroke="#3d352b"/></g><path d="M336,17 L354,17 L345,35 Z" fill="#ece4d6"/><text class="tg" x="28" y="50">GLÜCKSRAD</text>
-<text class="tt" x="28" y="90">Glücksrad</text>
-<text class="ss" x="28" y="122">Ein Rad mit unterschiedlich</text>
-<text class="ss" x="28" y="146">gewichteten Feldern.</text>
-<text class="go" x="28" y="188">öffnen →</text>
+<g class="spin" style="transform-origin:345px 105px"><path d="M345,105 L345.0,29.0 A76,76 0 0 1 410.8,67.0 Z" fill="#c9a227" stroke="#16120e" stroke-width="3"/><path d="M345,105 L410.8,67.0 A76,76 0 0 1 410.8,143.0 Z" fill="#b4522f" stroke="#16120e" stroke-width="3"/><path d="M345,105 L410.8,143.0 A76,76 0 0 1 345.0,181.0 Z" fill="#7f9b72" stroke="#16120e" stroke-width="3"/><path d="M345,105 L345.0,181.0 A76,76 0 0 1 279.2,143.0 Z" fill="#5b7f95" stroke="#16120e" stroke-width="3"/><path d="M345,105 L279.2,143.0 A76,76 0 0 1 279.2,67.0 Z" fill="#a0678a" stroke="#16120e" stroke-width="3"/><path d="M345,105 L279.2,67.0 A76,76 0 0 1 345.0,29.0 Z" fill="#d08c3c" stroke="#16120e" stroke-width="3"/><circle cx="345" cy="105" r="14" fill="#16120e" stroke="#3d352b"/></g><path d="M336,17 L354,17 L345,35 Z" fill="#ece4d6"/><text class="tg" x="28" y="50">LUCKY WHEEL</text>
+<text class="tt" x="28" y="90">Lucky Wheel</text>
+<text class="ss" x="28" y="122">A wheel whose segments</text>
+<text class="ss" x="28" y="146">carry different weights.</text>
+<text class="go" x="28" y="188">open →</text>
 
 </svg>

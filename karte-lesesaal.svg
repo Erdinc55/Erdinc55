@@ -30,10 +30,10 @@
 <g class="p" style="animation-delay:4.20s;transform-origin:753px 101px"><rect x="740" y="88" width="27" height="27" rx="2" fill="#16120e" stroke="#3d352b"/><text x="753.5" y="102.5" font-family="'Courier New', Consolas, monospace" font-size="16" fill="#ece4d6" text-anchor="middle" dominant-baseline="central">U</text></g>
 <g class="p" style="animation-delay:4.45s;transform-origin:753px 131px"><rect x="740" y="118" width="27" height="27" rx="2" fill="#16120e" stroke="#3d352b"/><text x="753.5" y="132.5" font-family="'Courier New', Consolas, monospace" font-size="16" fill="#ece4d6" text-anchor="middle" dominant-baseline="central">S</text></g>
 <g class="p" style="animation-delay:4.70s;transform-origin:753px 161px"><rect x="740" y="148" width="27" height="27" rx="2" fill="#16120e" stroke="#3d352b"/><text x="753.5" y="162.5" font-family="'Courier New', Consolas, monospace" font-size="16" fill="#ece4d6" text-anchor="middle" dominant-baseline="central">T</text></g>
-<text class="tg" x="40" y="52">NEUESTES PROJEKT</text>
+<text class="tg" x="40" y="52">NEWEST PROJECT</text>
 <text class="tt" x="40" y="92">Lesesaal</text>
-<text class="ss" x="40" y="124">Kreuzworträtsel über Allgemeinwissen. Jedes Rätsel wird neu gebaut,</text>
-<text class="ss" x="40" y="148">Hinweise lassen sich schärfen und kosten dann Punkte.</text>
-<text class="go" x="40" y="190">öffnen →</text>
-<rect x="140" y="170" width="108" height="26" rx="13" fill="none" stroke="#c9a227" opacity="0.7"/><text x="194" y="187" font-family="'Courier New', Consolas, monospace" font-size="11" fill="#c9a227" text-anchor="middle">1.000+ Fragen</text>
+<text class="ss" x="40" y="124">A crossword about general knowledge. Every puzzle is built fresh,</text>
+<text class="ss" x="40" y="148">and clues can be sharpened for a few points.</text>
+<text class="go" x="40" y="190">open →</text>
+<rect x="140" y="170" width="108" height="26" rx="13" fill="none" stroke="#c9a227" opacity="0.7"/><text x="194" y="187" font-family="'Courier New', Consolas, monospace" font-size="11" fill="#c9a227" text-anchor="middle">1,000+ clues</text>
 </svg>

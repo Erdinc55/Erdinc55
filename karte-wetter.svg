@@ -11,10 +11,10 @@
 </style>
 <rect width="440" height="210" rx="12" fill="#16120e"/>
 <rect class="rahmen" x="1" y="1" width="438" height="208" rx="11" fill="#221c15" fill-opacity="0.55" stroke="#3d352b" stroke-width="1.5"/>
-<g transform="translate(335,85)"><g class="sonne"><circle r="26" fill="#f0b93d"/><line x1="36.0" y1="0.0" x2="50.0" y2="0.0" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="25.5" y1="25.5" x2="35.4" y2="35.4" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="0.0" y1="36.0" x2="0.0" y2="50.0" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="-25.5" y1="25.5" x2="-35.4" y2="35.4" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="-36.0" y1="0.0" x2="-50.0" y2="0.0" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="-25.5" y1="-25.5" x2="-35.4" y2="-35.4" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="-0.0" y1="-36.0" x2="-0.0" y2="-50.0" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="25.5" y1="-25.5" x2="35.4" y2="-35.4" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/></g></g><g class="wolke"><ellipse cx="350" cy="125" rx="50" ry="22" fill="#ece4d6"/><circle cx="326" cy="115" r="20" fill="#ece4d6"/><circle cx="360" cy="108" r="25" fill="#ece4d6"/></g><text class="tg" x="28" y="50">WETTER-APP</text>
-<text class="tt" x="28" y="90">Wetter</text>
-<text class="ss" x="28" y="122">Vergleicht Quellen, merkt</text>
-<text class="ss" x="28" y="146">sich Orte, °C und °F.</text>
-<text class="go" x="28" y="188">öffnen →</text>
+<g transform="translate(335,85)"><g class="sonne"><circle r="26" fill="#f0b93d"/><line x1="36.0" y1="0.0" x2="50.0" y2="0.0" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="25.5" y1="25.5" x2="35.4" y2="35.4" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="0.0" y1="36.0" x2="0.0" y2="50.0" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="-25.5" y1="25.5" x2="-35.4" y2="35.4" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="-36.0" y1="0.0" x2="-50.0" y2="0.0" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="-25.5" y1="-25.5" x2="-35.4" y2="-35.4" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="-0.0" y1="-36.0" x2="-0.0" y2="-50.0" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/><line x1="25.5" y1="-25.5" x2="35.4" y2="-35.4" stroke="#f0b93d" stroke-width="4" stroke-linecap="round"/></g></g><g class="wolke"><ellipse cx="350" cy="125" rx="50" ry="22" fill="#ece4d6"/><circle cx="326" cy="115" r="20" fill="#ece4d6"/><circle cx="360" cy="108" r="25" fill="#ece4d6"/></g><text class="tg" x="28" y="50">WEATHER APP</text>
+<text class="tt" x="28" y="90">Weather</text>
+<text class="ss" x="28" y="122">Compares sources, remembers</text>
+<text class="ss" x="28" y="146">places, shows °C and °F.</text>
+<text class="go" x="28" y="188">open →</text>
 
 </svg>

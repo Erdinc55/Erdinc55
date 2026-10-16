@@ -13,10 +13,10 @@
 <rect class="rahmen" x="1" y="1" width="438" height="208" rx="11" fill="#221c15" fill-opacity="0.55" stroke="#3d352b" stroke-width="1.5"/>
 <g class="schwebe"><rect x="270" y="52" width="140" height="92" rx="6" fill="#ece4d6"/>
 <rect x="282" y="66" width="50" height="8" rx="2" fill="#16120e"/><rect x="282" y="82" width="90" height="5" rx="2" fill="#8a8070"/><rect x="282" y="94" width="76" height="5" rx="2" fill="#8a8070"/>
-<circle cx="388" cy="70" r="9" fill="#c9a227"/><rect x="282" y="122" width="40" height="6" rx="3" fill="#c9a227"/></g><text class="tg" x="28" y="50">VISITENKARTE</text>
-<text class="tt" x="28" y="90">Visitenkarte</text>
-<text class="ss" x="28" y="122">Meine kleine Startseite mit</text>
-<text class="ss" x="28" y="146">Kontakt und allen Projekten.</text>
-<text class="go" x="28" y="188">öffnen →</text>
+<circle cx="388" cy="70" r="9" fill="#c9a227"/><rect x="282" y="122" width="40" height="6" rx="3" fill="#c9a227"/></g><text class="tg" x="28" y="50">BUSINESS CARD</text>
+<text class="tt" x="28" y="90">Business Card</text>
+<text class="ss" x="28" y="122">My small start page with</text>
+<text class="ss" x="28" y="146">contact and all my projects.</text>
+<text class="go" x="28" y="188">open →</text>
 
 </svg>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="kopf.svg" alt="Erdinc – Webentwicklung, Schritt für Schritt" width="100%">
+<img src="kopf.svg" alt="Erdinc – web development, step by step" width="100%">
 
 </div>
 
@@ -8,22 +8,22 @@
 
 <div align="center">
 
-### Was ich gebaut habe
+### What I've built
 
 </div>
 
 <div align="center">
-<a href="https://erdinc55.github.io/Kreuzwortraetsel/"><img src="karte-lesesaal.svg" alt="Lesesaal, ein Kreuzworträtsel über Allgemeinwissen" width="100%"></a>
+<a href="https://erdinc55.github.io/Kreuzwortraetsel/"><img src="karte-lesesaal.svg" alt="Lesesaal, a crossword about general knowledge" width="100%"></a>
 </div>
 
 <table align="center">
 <tr>
-<td><a href="https://erdinc55.github.io/abyss-Reaktionsspiel/"><img src="karte-abyss.svg" alt="Abyss, ein Reaktionsspiel" width="440"></a></td>
-<td><a href="https://erdinc55.github.io/gluecksrad/"><img src="karte-gluecksrad.svg" alt="Glücksrad mit gewichteten Feldern" width="440"></a></td>
+<td><a href="https://erdinc55.github.io/abyss-Reaktionsspiel/"><img src="karte-abyss.svg" alt="Abyss, a reaction game" width="440"></a></td>
+<td><a href="https://erdinc55.github.io/gluecksrad/"><img src="karte-gluecksrad.svg" alt="Lucky wheel with weighted segments" width="440"></a></td>
 </tr>
 <tr>
-<td><a href="https://erdinc55.github.io/Wetter/"><img src="karte-wetter.svg" alt="Wetter-App mit Gedächtnis" width="440"></a></td>
-<td><a href="https://erdinc55.github.io/mini-visitenkarte/"><img src="karte-visitenkarte.svg" alt="Meine Visitenkarte" width="440"></a></td>
+<td><a href="https://erdinc55.github.io/Wetter/"><img src="karte-wetter.svg" alt="Weather app with memory" width="440"></a></td>
+<td><a href="https://erdinc55.github.io/mini-visitenkarte/"><img src="karte-visitenkarte.svg" alt="My business card page" width="440"></a></td>
 </tr>
 </table>
 
@@ -31,25 +31,24 @@
 <img src="trenner.svg" alt="" width="100%">
 </div>
 
-## Wo ich stehe
+## Where I stand
 
-Ich bringe mir Webentwicklung selbst bei, in Deutschland, Schritt für Schritt.
-Jedes Projekt oben ist aus einer Frage entstanden: Wie baut man ein Kreuzworträtsel,
-das sich selbst erzeugt? Wie macht man ein Reaktionsspiel fair? Wie bringt man ein Rad
-dazu, ungleiche Felder zu treffen?
+I'm teaching myself web development in Germany, one step at a time. Every project above
+started with a question: How do you build a crossword that builds itself? How do you make
+a reaction game feel fair? How do you get a wheel to land on uneven segments?
 
-Dabei habe ich mehr gelernt als in jedem Tutorial. Zum Beispiel, dass eine fremde
-Schnittstelle nicht verlässlich ist (Lesesaal), dass ein Finger ungenauer ist als eine
-Maus (Abyss) und dass man Zeit zwischen zwei Bildern einrechnen muss (auch Abyss).
+I've learned more from these than from any tutorial. For example, that a third-party API
+can't be trusted to be there (Lesesaal), that a finger is less precise than a mouse (Abyss),
+and that you have to account for the time between frames (also Abyss).
 
-Ich suche meine erste Stelle als **Junior Webentwickler**.
+I'm looking for my first role as a **junior web developer**.
 
 <div align="center">
 <img src="werkzeug.svg" alt="HTML, CSS, JavaScript, Git, GitHub, Wikidata" width="100%">
 </div>
 
-## Mein Raster
+## My contribution grid
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Erdinc55/Erdinc55/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%">
+<img src="https://raw.githubusercontent.com/Erdinc55/Erdinc55/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%">
 </div>
