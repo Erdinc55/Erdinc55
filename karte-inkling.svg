@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="215" viewBox="0 0 900 215" role="img" aria-label="Inkling, a typing test on a drawn typewriter">
+<style>
+.tt{font:400 28px Georgia, 'Times New Roman', serif;fill:#ece4d6}
+.ss{font:italic 300 17px Georgia, 'Times New Roman', serif;fill:#9a8f7f}
+.tg{font:400 12px 'Courier New', Consolas, monospace;fill:#c9a227;letter-spacing:2px}
+.go{font:400 14px 'Courier New', Consolas, monospace;fill:#c9a227}
+.rahmen{animation:rb 6s ease-in-out infinite}
+@keyframes rb{0%,100%{stroke:#3d352b}50%{stroke:#6b5a2e}}
+.blink{animation:bl 1s steps(2,start) infinite}@keyframes bl{to{visibility:hidden}}
+</style>
+<defs>
+<linearGradient id="lack" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c7dfd0"/><stop offset=".45" stop-color="#a6c8b4"/><stop offset="1" stop-color="#7ea891"/></linearGradient>
+<linearGradient id="walze" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4a4d52"/><stop offset=".45" stop-color="#15171a"/><stop offset="1" stop-color="#0c0d0f"/></linearGradient>
+<linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f6f7"/><stop offset=".5" stop-color="#6e767e"/><stop offset="1" stop-color="#e3e7ea"/></linearGradient>
+<linearGradient id="blatt" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fdfaf1" stop-opacity="0"/><stop offset=".45" stop-color="#fdfaf1"/></linearGradient>
+<clipPath id="fenster"><rect x="520" y="20" width="356" height="176" rx="12"/></clipPath>
+</defs>
+<rect width="900" height="215" rx="12" fill="#16120e"/>
+<rect class="rahmen" x="1" y="1" width="898" height="213" rx="11" fill="#221c15" fill-opacity="0.55" stroke="#3d352b" stroke-width="1.5"/>
+
+<g clip-path="url(#fenster)">
+  <rect x="520" y="20" width="356" height="176" fill="url(#lack)"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" dur="7.0s" repeatCount="indefinite" keyTimes="0.0;0.0743;0.08;0.0971;0.1029;0.12;0.1257;0.1429;0.1486;0.1657;0.1714;0.1886;0.1943;0.2114;0.2171;0.2343;0.24;0.2571;0.2629;0.28;0.2857;0.3029;0.3086;0.3257;0.3314;0.3486;0.3543;0.3714;0.3771;0.3943;0.4;0.4171;0.4229;0.44;0.4457;0.4629;0.4686;0.4857;0.4914;0.5086;0.5143;0.5314;0.5371;0.5543;0.56;0.5771;0.5829;0.6;0.6057;0.6229;0.6286;0.6457;0.6514;0.6686;0.6743;0.6914;0.6971;0.9071;0.9643;1.0" values="0.0 0;0.0 0;-9.6 0;-9.6 0;-19.2 0;-19.2 0;-28.8 0;-28.8 0;-38.4 0;-38.4 0;-48.0 0;-48.0 0;-57.6 0;-57.6 0;-67.2 0;-67.2 0;-76.8 0;-76.8 0;-86.4 0;-86.4 0;-96.0 0;-96.0 0;-105.6 0;-105.6 0;-115.2 0;-115.2 0;-124.8 0;-124.8 0;-134.4 0;-134.4 0;-144.0 0;-144.0 0;-153.6 0;-153.6 0;-163.2 0;-163.2 0;-172.8 0;-172.8 0;-182.4 0;-182.4 0;-192.0 0;-192.0 0;-201.6 0;-201.6 0;-211.2 0;-211.2 0;-220.8 0;-220.8 0;-230.4 0;-230.4 0;-240.0 0;-240.0 0;-249.6 0;-249.6 0;-259.2 0;-259.2 0;-268.8 0;-268.8 0;0.0 0;0.0 0"/>
+    <rect x="665.2" y="14" width="408.8" height="100" fill="url(#blatt)"/>
+    <line x1="683.2" y1="40" x2="683.2" y2="114" stroke="#c9372c" stroke-opacity=".25"/>
+    <g font-family="'Courier New', Consolas, monospace" font-size="16" font-weight="700" fill="#1c2740">
+    <text x="700.0" y="100" text-anchor="middle" opacity="0">T<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.0714;0.0729;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="709.6" y="100" text-anchor="middle" opacity="0">y<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.0943;0.0957;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="719.2" y="100" text-anchor="middle" opacity="0">p<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.1171;0.1186;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="728.8" y="100" text-anchor="middle" opacity="0">e<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.14;0.1414;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="748.0" y="100" text-anchor="middle" opacity="0">u<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.1857;0.1871;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="757.6" y="100" text-anchor="middle" opacity="0">n<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.2086;0.21;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="767.2" y="100" text-anchor="middle" opacity="0">t<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.2314;0.2329;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="776.8" y="100" text-anchor="middle" opacity="0">i<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.2543;0.2557;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="786.4" y="100" text-anchor="middle" opacity="0">l<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.2771;0.2786;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="805.6" y="100" text-anchor="middle" opacity="0">t<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.3229;0.3243;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="815.2" y="100" text-anchor="middle" opacity="0">h<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.3457;0.3471;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="824.8" y="100" text-anchor="middle" opacity="0">e<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.3686;0.37;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="844.0" y="100" text-anchor="middle" opacity="0">i<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.4143;0.4157;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="853.6" y="100" text-anchor="middle" opacity="0">n<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.4371;0.4386;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="863.2" y="100" text-anchor="middle" opacity="0">k<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.46;0.4614;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="882.4" y="100" text-anchor="middle" opacity="0">r<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.5057;0.5071;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="892.0" y="100" text-anchor="middle" opacity="0">u<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.5286;0.53;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="901.6" y="100" text-anchor="middle" opacity="0">n<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.5514;0.5529;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="911.2" y="100" text-anchor="middle" opacity="0">s<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.5743;0.5757;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="930.4" y="100" text-anchor="middle" opacity="0">d<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.62;0.6214;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="940.0" y="100" text-anchor="middle" opacity="0">r<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.6429;0.6443;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="949.6" y="100" text-anchor="middle" opacity="0">y<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.6657;0.6671;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+<text x="959.2" y="100" text-anchor="middle" opacity="0">.<animate attributeName="opacity" dur="7.0s" repeatCount="indefinite" keyTimes="0;0.6886;0.69;0.8857;0.9143;1" values="0;0;1;1;0;0"/></text>
+    </g>
+  </g>
+  <rect class="blink" x="695.7" y="103" width="8.6" height="2" fill="#c9372c"/>
+  <rect x="520" y="108" width="356" height="14" rx="7" fill="url(#walze)"/>
+  <path d="M 630 160 A 70 34 0 0 1 770 160 Z" fill="#12201a" fill-opacity=".35"/>
+  <g stroke="#d3d9dd" stroke-width="2.4" stroke-linecap="round"><line x1="638.5" y1="156.4" x2="645.0" y2="150.2"/><line x1="642.0" y1="149.4" x2="648.8" y2="143.5"/><line x1="649.0" y1="143.0" x2="655.8" y2="137.1"/><line x1="658.9" y1="137.5" x2="665.5" y2="131.4"/><line x1="671.2" y1="133.4" x2="677.0" y2="126.5"/><line x1="685.2" y1="130.9" x2="689.0" y2="122.7"/><line x1="700.0" y1="130.0" x2="700.0" y2="121.0"/><line x1="714.8" y1="130.9" x2="711.0" y2="122.7"/><line x1="728.8" y1="133.4" x2="723.0" y2="126.5"/><line x1="741.1" y1="137.5" x2="734.5" y2="131.4"/><line x1="751.0" y1="143.0" x2="744.2" y2="137.1"/><line x1="758.0" y1="149.4" x2="751.2" y2="143.5"/><line x1="761.5" y1="156.4" x2="755.0" y2="150.2"/></g>
+  <line x1="700" y1="160" x2="700" y2="150" stroke="#e3e7ea" stroke-width="2.6" stroke-linecap="round">
+    <animate attributeName="y2" dur="7.0s" repeatCount="indefinite" keyTimes="0.0;0.0707;0.0757;0.0829;0.0936;0.0986;0.1057;0.1164;0.1214;0.1286;0.1393;0.1443;0.1514;0.185;0.19;0.1971;0.2079;0.2129;0.22;0.2307;0.2357;0.2429;0.2536;0.2586;0.2657;0.2764;0.2814;0.2886;0.3221;0.3271;0.3343;0.345;0.35;0.3571;0.3679;0.3729;0.38;0.4136;0.4186;0.4257;0.4364;0.4414;0.4486;0.4593;0.4643;0.4714;0.505;0.51;0.5171;0.5279;0.5329;0.54;0.5507;0.5557;0.5629;0.5736;0.5786;0.5857;0.6193;0.6243;0.6314;0.6421;0.6471;0.6543;0.665;0.67;0.6771;0.6879;0.6929;0.7;1.0" values="150;150;99;150;150;99;150;150;99;150;150;99;150;150;99;150;150;99;150;150;99;150;150;99;150;150;99;150;150;99;150;150;99;150;150;99;150;150;99;150;150;99;150;150;99;150;150;99;150;150;99;150;150;99;150;150;99;150;150;99;150;150;99;150;150;99;150;150;99;150;150"/>
+  </line>
+  <g><animateTransform attributeName="transform" type="translate" dur="7.0s" repeatCount="indefinite" keyTimes="0.0;0.0707;0.0757;0.0857;0.185;0.19;0.2;0.4136;0.4186;0.4286;0.5279;0.5329;0.5429;0.6421;0.6471;0.6571;1.0" values="0 0;0 0;0 3;0 0;0 0;0 3;0 0;0 0;0 3;0 0;0 0;0 3;0 0;0 0;0 3;0 0;0 0"/><circle cx="620" cy="172" r="14" fill="url(#ring)"/><circle cx="620" cy="172" r="10.5" fill="#23262a"/><text x="620" y="176.5" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="12" font-weight="700" fill="#fdfaf1">I</text></g>
+<g><animateTransform attributeName="transform" type="translate" dur="7.0s" repeatCount="indefinite" keyTimes="0.0;0.0936;0.0986;0.1086;0.2079;0.2129;0.2229;0.3221;0.3271;0.3371;0.4364;0.4414;0.4514;0.5507;0.5557;0.5657;0.665;0.67;0.68;1.0" values="0 0;0 0;0 3;0 0;0 0;0 3;0 0;0 0;0 3;0 0;0 0;0 3;0 0;0 0;0 3;0 0;0 0;0 3;0 0;0 0"/><circle cx="660" cy="172" r="14" fill="url(#ring)"/><circle cx="660" cy="172" r="10.5" fill="#23262a"/><text x="660" y="176.5" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="12" font-weight="700" fill="#fdfaf1">N</text></g>
+<g><animateTransform attributeName="transform" type="translate" dur="7.0s" repeatCount="indefinite" keyTimes="0.0;0.1164;0.1214;0.1314;0.2307;0.2357;0.2457;0.345;0.35;0.36;0.4593;0.4643;0.4743;0.5736;0.5786;0.5886;0.6879;0.6929;0.7029;1.0" values="0 0;0 0;0 3;0 0;0 0;0 3;0 0;0 0;0 3;0 0;0 0;0 3;0 0;0 0;0 3;0 0;0 0;0 3;0 0;0 0"/><circle cx="700" cy="172" r="14" fill="url(#ring)"/><circle cx="700" cy="172" r="10.5" fill="#23262a"/><text x="700" y="176.5" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="12" font-weight="700" fill="#fdfaf1">K</text></g>
+<g><animateTransform attributeName="transform" type="translate" dur="7.0s" repeatCount="indefinite" keyTimes="0.0;0.1393;0.1443;0.1543;0.2536;0.2586;0.2686;0.3679;0.3729;0.3829;1.0" values="0 0;0 0;0 3;0 0;0 0;0 3;0 0;0 0;0 3;0 0;0 0"/><circle cx="740" cy="172" r="14" fill="url(#ring)"/><circle cx="740" cy="172" r="10.5" fill="#23262a"/><text x="740" y="176.5" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="12" font-weight="700" fill="#fdfaf1">L</text></g>
+<g><animateTransform attributeName="transform" type="translate" dur="7.0s" repeatCount="indefinite" keyTimes="0.0;0.2764;0.2814;0.2914;0.505;0.51;0.52;0.6193;0.6243;0.6343;1.0" values="0 0;0 0;0 3;0 0;0 0;0 3;0 0;0 0;0 3;0 0;0 0"/><circle cx="780" cy="172" r="14" fill="url(#ring)"/><circle cx="780" cy="172" r="10.5" fill="#23262a"/><text x="780" y="176.5" text-anchor="middle" font-family="'Courier New', Consolas, monospace" font-size="12" font-weight="700" fill="#fdfaf1">G</text></g>
+</g>
+
+<text class="tg" x="40" y="52">NEWEST PROJECT</text>
+<text class="tt" x="40" y="92">Inkling</text>
+<text class="ss" x="40" y="124">A typing test on a drawn typewriter. The paper</text>
+<text class="ss" x="40" y="148">slides with every key, mistakes stay red.</text>
+<text class="go" x="40" y="190">open →</text>
+<rect x="140" y="170" width="150" height="26" rx="13" fill="none" stroke="#c9a227" opacity="0.7"/><text x="215" y="187" font-family="'Courier New', Consolas, monospace" font-size="11" fill="#c9a227" text-anchor="middle">7 ranks · EN / DE</text>
+</svg>

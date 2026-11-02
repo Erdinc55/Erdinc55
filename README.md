@@ -13,6 +13,10 @@
 </div>
 
 <div align="center">
+<a href="https://erdinc55.github.io/inkling/"><img src="karte-inkling.svg" alt="Inkling, a typing test on a drawn typewriter" width="100%"></a>
+</div>
+
+<div align="center">
 <a href="https://erdinc55.github.io/Kreuzwortraetsel/"><img src="karte-lesesaal.svg" alt="Lesesaal, a crossword about general knowledge" width="100%"></a>
 </div>
 
@@ -35,11 +39,11 @@
 
 I'm teaching myself web development in Germany, one step at a time. Every project above
 started with a question: How do you build a crossword that builds itself? How do you make
-a reaction game feel fair? How do you get a wheel to land on uneven segments?
+a reaction game feel fair? How do you get a wheel to land on uneven segments? How do you make a typing test feel like a real typewriter?
 
 I've learned more from these than from any tutorial. For example, that a third-party API
 can't be trusted to be there (Lesesaal), that a finger is less precise than a mouse (Abyss),
-and that you have to account for the time between frames (also Abyss).
+and that a phone keyboard often won't tell you which key was pressed (Inkling).
 
 I'm looking for my first role as a **junior web developer**.
 
